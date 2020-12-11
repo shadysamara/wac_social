@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497583530393",
+    "project_id": "wac-coaching",
+    "storage_bucket": "wac-coaching.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497583530393:android:bcd8742a62991fad5bb308",
+        "android_client_info": {
+          "package_name": "com.example.wac_coaching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497583530393-t2oh0rvcl0ssog8log4o9jrla4pt8bn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wac_coaching",
+            "certificate_hash": "ab30d85c460e1a5edd9898e797528b6b6418b2ab"
+          }
+        },
+        {
+          "client_id": "497583530393-csv5dkpndkb5i6c80ovc2ocd0vpf5am0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-nmzcymhj7xAuxhALkQNSLfwmfBiWYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497583530393-csv5dkpndkb5i6c80ovc2ocd0vpf5am0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
